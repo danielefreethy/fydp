@@ -2,7 +2,7 @@
 
 ## Installation
 
-```pip3 install -r requirements.txt```
+Install packages if prompted
 
 ## Running
 
