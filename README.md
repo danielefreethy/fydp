@@ -3,6 +3,7 @@
 ## Installation
 
 Install packages if prompted
+Add csv files to working directory
 
 ## Running
 
